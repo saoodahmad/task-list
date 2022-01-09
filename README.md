@@ -29,7 +29,7 @@ npm run dev
 
 kindly provide ypur own values against these keys
 
-1. DB_URI : <Provide your own mongodb database URL>
+1. DB_URI : <Provide your own mongodb database URL >
 2. PORT : <Provide your own PORT >
-3. JWT_SECRET : <Provide your own SECRET eg hello>
+3. JWT_SECRET : <Provide your own SECRET eg hello >
 4. JWT_EXPIRE : <Provide your own EXPIRE eg 30d >
